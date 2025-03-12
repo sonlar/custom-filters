@@ -1,11 +1,15 @@
-! Mar 11, 2025 https://m.youtube.com
+! Mar 12, 2025 https://m.youtube.com
 m.youtube.com##ytm-pivot-bar-item-renderer:has(div[class*="pivot-shorts"])
 m.youtube.com##.rich-section-content
 m.youtube.com##ytm-reel-shelf-renderer
 m.youtube.com##ytm-video-with-context-renderer:has(a[href^="/shorts/"])
+m.youtube.com##yt-tab-shape[tab-title="Shorts"]
+m.youtube.com##ytm-rich-grid-renderer[class*="is-shorts"]
 
-! Mar 11, 2025 https://www.youtube.com
+! Mar 12, 2025 https://www.youtube.com
 www.youtube.com##ytd-guide-entry-renderer:has(a[title="Shorts"])
 www.youtube.com##.ytd-rich-section-renderer
 www.youtube.com##ytd-reel-shelf-renderer
 www.youtube.com##ytd-video-renderer:has(a[href^="/shorts/"])
+www.youtube.com##yt-tab-shape[tab-title="Shorts"]
+www.youtube.com##ytd-rich-grid-renderer[is-shorts-grid=""]
